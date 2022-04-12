@@ -1,0 +1,2 @@
+# Recruitedia
+Developed a project on a Placement Portal System, In this application we have developed a three moduled project and included features like applying for a job, accessing the learning paths, go through the different kinds of jobs by users and can also post a job and recruit an employee by recruiter with the framework Spring Boot and tested the project using POSTMAN API and front-end with Html ,Css ,Bootstrap and database as MySql.
